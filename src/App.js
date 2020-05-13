@@ -20,6 +20,11 @@ class App extends React.Component {
         id: 3,
         title: 'Be awesome',
         completed: true
+      },
+      {
+        id: 4,
+        title: 'Kiss misa',
+        completed: false
       }
     ]
   }
